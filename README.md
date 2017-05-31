@@ -1,2 +1,2 @@
 # epicbox-go
-Dockerfile for automated builds of stepik/epicbox-go image 
+Epicbox image to run secure Go sandboxes on Stepik.org.
